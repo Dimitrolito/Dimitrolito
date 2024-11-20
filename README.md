@@ -8,5 +8,5 @@ Hello, I am [Dmytro]! 👋
 - 📝 [TimeLock DApp](ссылка на проект)
 
 ### Contact me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](ссылка)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)](ссылка)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)]([ссылка](https://www.linkedin.com/in/dmlap/))
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)]([ссылка](https://www.linkedin.com/in/dmlap/))
