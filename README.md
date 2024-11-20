@@ -3,10 +3,5 @@ Hello, I am [Dmytro]! 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitrolito&show_icons=true)
 
-### Projects
-- 🔗 [TrustSplit](ссылка на проект)
-- 📝 [TimeLock DApp](ссылка на проект)
-
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/dmlap/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter)]((https://www.linkedin.com/in/dmlap/))
